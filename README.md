@@ -2,10 +2,10 @@
 
 Hello, I'm Tharidu D Wimalasena! 👋
 
-🚀 I'm an Undergraduate passionate about Software Engineering.
-🌱 I'm currently learning MERN Stack.
-🌍 I'm from Sri Lanka.
-📫 You can reach me at t.dilsh.99@gmail.com.
+- 🚀 I'm an Undergraduate passionate about Software Engineering.
+- 🌱 I'm currently learning MERN Stack.
+- 🌍 I'm from Sri Lanka.
+- 📫 You can reach me at t.dilsh.99@gmail.com.
 
 ## 🔧 Technologies & Tools
 
