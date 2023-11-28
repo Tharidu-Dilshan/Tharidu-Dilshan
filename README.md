@@ -32,6 +32,6 @@ Here are some of the technologies and tools I work with:
 
 ## 🏆 My GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Tharidu-Dilshan)](https://github.com/ryo-ma/github-profile-trophy)
 
 Feel free to explore my repositories and contribute to them. Happy coding! 😊
